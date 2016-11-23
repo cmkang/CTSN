@@ -1,6 +1,6 @@
 # CTSN
 
-Detection and Recognition of Text Embedded in Online Images via Neural Context Models
+#Detection and Recognition of Text Embedded in Online Images via Neural Context Models
 
 This project hosts the code for our AAAI 2017 paper
 
