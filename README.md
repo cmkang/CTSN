@@ -2,6 +2,8 @@
 
 #Detection and Recognition of Text Embedded in Online Images via Neural Context Models
 
+![alt tag](https://raw.githubusercontent.com/cmkang/CTSN/master/intro.png)
+
 This project hosts the code for our AAAI 2017 paper
 
 We address the problem of detecting and recognizing the text embedded in online images that are circulated over the Web. 
@@ -20,8 +22,8 @@ To infuse such two sets of context information, we propose a \textit{contextual 
 }
 ```
 
-##Code
-Comming Soon(Feb. 2017, expected)
+##Code and Dataset
+Comming Soon(at Feb. 2017)
 
 
 
