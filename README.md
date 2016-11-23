@@ -9,6 +9,7 @@ Our idea is to leverage context information for both text detection and recognit
 To infuse such two sets of context information, we propose a \textit{contextual text spotting network} (CTSN). We perform comparative evaluation with five state-of-the-art text spotting methods on newly collected Instagram and Flickr datasets. We show that our approach that benefits from context information is more successful for text spotting in online images.
 
 
+##Reference
 
 
 
