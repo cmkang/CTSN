@@ -11,27 +11,17 @@ To infuse such two sets of context information, we propose a \textit{contextual 
 
 ##Reference
 
+```
+@inproceedings{ctsn:2017:AAAI,
+    author    = {Chulmoo Kang, Gunhee Kim and Suk I. Yoo},
+    title     = "{Detection and Recognition of Text Embedded in Online Images via Neural Context Models}"
+    booktitle = {AAAI},
+    year      = 2017
+}
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##Code
+Comming Soon(Feb. 2017, expected)
 
 
 
