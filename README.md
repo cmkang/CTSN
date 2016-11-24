@@ -26,6 +26,9 @@ To infuse such two sets of context information, we propose a \textit{contextual 
 Comming Soon(in Feb. 2017)
 
 
+##License
+MIT License
+
 
 
 
