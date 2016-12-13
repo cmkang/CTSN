@@ -4,7 +4,7 @@
 
 ![alt tag](https://raw.githubusercontent.com/cmkang/CTSN/master/intro.png)
 
-This project hosts the code and dataset for our AAAI 2017 paper[https://github.com/cmkang/CTSN/files/blob/aaai2017_cameraready.pdf]
+This project hosts the code and dataset for our AAAI 2017 paper[https://github.com/cmkang/CTSN/files/blob/master/aaai2017_cameraready.pdf]
 
 We address the problem of detecting and recognizing the text embedded in online images that are circulated over the Web. 
 Our idea is to leverage context information for both text detection and recognition. For detection, we use local image context around the text region, based on that the text often sequentially appear in online images. For recognition, we exploit the metadata associated with the input online image, including tags, comments, and title, which are used as a topic prior for the word candidates in the image. 
